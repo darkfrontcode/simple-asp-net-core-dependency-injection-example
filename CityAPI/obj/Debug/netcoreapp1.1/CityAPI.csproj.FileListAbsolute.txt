@@ -1,0 +1,10 @@
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\bin\Debug\netcoreapp1.1\CityAPI.deps.json
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\bin\Debug\netcoreapp1.1\CityAPI.runtimeconfig.json
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\bin\Debug\netcoreapp1.1\CityAPI.runtimeconfig.dev.json
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\bin\Debug\netcoreapp1.1\CityAPI.dll
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\obj\Debug\netcoreapp1.1\CityAPI.csprojResolveAssemblyReference.cache
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\obj\Debug\netcoreapp1.1\CityAPI.AssemblyInfo.cs
+C:\Users\Ueslei_de_Souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\bin\Debug\netcoreapp1.1\CityAPI.pdb
+C:\Users\Ueslei_de_Souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\obj\Debug\netcoreapp1.1\CityAPI.dll
+C:\Users\Ueslei_de_Souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\obj\Debug\netcoreapp1.1\CityAPI.pdb
+C:\Users\Ueslei_de_Souza\documents\visual studio 2017\Projects\CityAPI\CityAPI\bin\Debug\netcoreapp1.1\nlog.config
